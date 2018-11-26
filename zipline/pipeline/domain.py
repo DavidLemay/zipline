@@ -230,13 +230,13 @@ IE_EQUITIES = EquityCalendarDomain(CountryCode.IRELAND, 'XDUB')
 IN_EQUITIES = EquityCalendarDomain(CountryCode.INDIA, "XBOM")
 IT_EQUITIES = EquityCalendarDomain(CountryCode.ITALY, 'XMIL')
 JP_EQUITIES = EquityCalendarDomain(CountryCode.JAPAN, 'XTKS')
+KR_EQUITIES = EquityCalendarDomain(CountryCode.SOUTH_KOREA, 'XKRX')
 NL_EQUITIES = EquityCalendarDomain(CountryCode.NETHERLANDS, 'XAMS')
 NO_EQUITIES = EquityCalendarDomain(CountryCode.NORWAY, 'XOSL')
 NZ_EQUITIES = EquityCalendarDomain(CountryCode.NEW_ZEALAND, 'XNZE')
 PT_EQUITIES = EquityCalendarDomain(CountryCode.PORTUGAL, 'XLIS')
 SE_EQUITIES = EquityCalendarDomain(CountryCode.SWEDEN, 'XSTO')
 SG_EQUITIES = EquityCalendarDomain(CountryCode.SINGAPORE, 'XSES')
-SK_EQUITIES = EquityCalendarDomain(CountryCode.SOUTH_KOREA, 'XKRX')
 US_EQUITIES = EquityCalendarDomain(CountryCode.UNITED_STATES, 'XNYS')
 
 BUILT_IN_DOMAINS = [
@@ -258,13 +258,13 @@ BUILT_IN_DOMAINS = [
     IN_EQUITIES,
     IT_EQUITIES,
     JP_EQUITIES,
+    KR_EQUITIES,
     NL_EQUITIES,
     NO_EQUITIES,
     NZ_EQUITIES,
     PT_EQUITIES,
     SE_EQUITIES,
     SG_EQUITIES,
-    SK_EQUITIES,
     US_EQUITIES,
 ]
 
